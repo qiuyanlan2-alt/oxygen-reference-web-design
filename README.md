@@ -35,7 +35,3 @@
 
 测试场景已提供，尚未运行模型对照测试或实际网页视觉测试。
 
-## 参考
-
-流程设计参考 [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)。
-此版本根据 Oxygen 的要求独立编写，并移除了固定字体、导航和标题效果等审美限制。
